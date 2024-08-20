@@ -1,0 +1,51 @@
+.Headlines {
+    color: #030303;
+    font-size: 2em;
+    font-family: "Poppins",sans-serif;
+    font-weight: 600;
+    line-height: 62px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.para{
+    color: #030303;
+    font-size: 1.3em;
+    font-family: "Poppins",sans-serif;
+    line-height: 31px;
+    text-align: center;
+}
+
+.shiftRight{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.text {
+    color: #030303;
+    font-size: 1em;
+    font-family: "Inter",system-ui;
+    line-height: 26px;
+    text-align: center;
+}
+
+
+
+.imageGraphy{
+    top: 547px;
+    left: 160px;
+    width: 1120px;
+    height: 485px;
+    border-radius: 34px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imageProfile{
+    width: 195px;
+    border-radius: 100000px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
